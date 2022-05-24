@@ -1,0 +1,10 @@
+*.ko
+*.o
+*.swp
+*.swn
+*.swo
+*.mod
+*.mod.c
+*.mod.o
+*.out
+*.order
